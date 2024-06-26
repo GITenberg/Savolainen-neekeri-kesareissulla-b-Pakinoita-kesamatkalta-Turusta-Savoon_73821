@@ -1,0 +1,32 @@
+_repo: Savolainen-neekeri-kesareissulla-b-Pakinoita-kesamatkalta-Turusta-Savoon_73821
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Välisalmi, Heikki
+    aliases:
+    - Valisalmi, Heikki
+    - Karttunen, Johan Henrik
+    - Hesekiel
+    birthdate: 1886
+    deathdate: 1947
+    gutenberg_agent_id: '57036'
+    url: http://www.gutenberg.org/2009/agents/57036
+    wikipedia: https://fi.wikipedia.org/wiki/Heikki_V%C3%A4lisalmi
+description: ''
+gutenberg_issued: '2024-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73821'
+language: fi
+pgterms:marc905: 20240603091238vlisalmi
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kansanvalta, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Savolainen "neekeri" kesäreissulla : $b Pakinoita kesämatkalta Turusta Savoon'
+url: http://www.gutenberg.org/ebooks/73821
